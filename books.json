@@ -1,0 +1,33 @@
+[
+  {
+    "guid": "7ebe1062-bd6b-4273-9c01-7dd95312cccf",
+    "name": "rokas",
+    "author": "a",
+    "category": "asd",
+    "language": "Lietuvių kalba",
+    "publicationDate": "5-May-2011",
+    "isbn": "007462542X",
+    "isTaken": false
+  },
+  {
+    "guid": "393aea18-4ed2-40a9-a034-4e9d378aeda7",
+    "name": "KET",
+    "author": "Jonas jones",
+    "category": "Siaubo",
+    "language": "Lietuvių kalba",
+    "publicationDate": "5-May-2018",
+    "isbn": "007462542X",
+    "isTaken": true
+  },
+  {
+    "guid": "a033f6a0-f379-4632-9c42-3b3b6270d0ca",
+    "name": "Lole",
+    "author": "Petras jones",
+    "category": "Siaubo",
+    "language": "Lietuvių kalba",
+    "publicationDate": "5-May-2008",
+    "isbn": "007462542X",
+    "isTaken": false
+  }
+
+]
